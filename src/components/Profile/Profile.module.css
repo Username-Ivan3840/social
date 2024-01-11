@@ -1,0 +1,13 @@
+.profile{
+    grid-area: profile;
+    padding: 15px;
+}
+.profileText{
+    font-size: 22px;
+    margin-left: 15px;
+    color: brown;
+}
+.me{
+    display: flex;
+    /* justify-content: space-between; */
+}

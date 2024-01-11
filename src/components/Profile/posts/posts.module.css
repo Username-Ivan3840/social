@@ -1,0 +1,28 @@
+.buttonPosts{
+    color: rgb(58, 52, 52);
+    font-size: 20px;
+    padding: 5px;
+    background-color: brown;
+    border-color: black;
+    border-radius: 15px;
+    color: black;
+
+}
+.input{
+    font-size: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    margin-right: 10px;
+    border-radius: 15px;
+    background-color: brown;
+    margin-top: 10px;
+    border-color: black;
+ 
+
+}
+.postsInp{
+    margin-bottom: 15px;
+}
+.styles.avatar{
+
+}

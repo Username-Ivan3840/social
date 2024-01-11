@@ -1,10 +1,17 @@
-
+import Header from './components/Header/Header';
+import NavBar from './components/NavBar/NavBar';
+import Profile from './components/Profile/Profile';
 import './App.css';
 
 function App() {
   return (
- <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, saepe vero voluptates consequatur, impedit blanditiis accusantium assumenda atque inventore libero laborum. Laboriosam labore culpa itaque minus totam. Veniam, tempore deleniti.</h1>
- 
+    <div className="wrapper">
+    <Header/>
+    <NavBar/>
+    <Profile/>
+    </div>
+    
+    
  );
 }
 
