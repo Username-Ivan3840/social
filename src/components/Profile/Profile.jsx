@@ -10,6 +10,26 @@ function Profile(){
                 <p className={styles.profileText}>Elon mask</p>
             </div>
             <Posts/>
+            <div className={styles.messages}>
+                <div className={styles.messageCont}>
+                    <div className={styles.message}>
+                        <p className={styles.messageName}>stiv jobs</p>
+                        <p className={styles.messageText}>hello! </p>
+                    </div>
+                    <div className={styles.message}>
+                        <p className={styles.messageName}>stiv jobs</p>
+                        <p className={styles.messageText}>hello! </p>
+                    </div>
+                    <div className={styles.message}>
+                        <p className={styles.messageName}>stiv jobs</p>
+                        <p className={styles.messageText}>hello! </p>
+                    </div>
+                </div>
+                <div className={styles.messageAction}>
+                    <textarea className={styles.textareaMessage} cols="30" rows="10"></textarea>
+                    <button className={styles.messageButton}>отправить</button>
+                </div>
+            </div>
         </div>
         
 
