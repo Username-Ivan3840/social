@@ -1,0 +1,24 @@
+.messageButton{
+    display: flex;
+    justify-content: space-evenly;
+}
+.textareaMessage{
+    font-size: 23px;
+    color: black;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+.messageButton{
+    color: black;
+    background-color: brown;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:  20px;
+   
+}

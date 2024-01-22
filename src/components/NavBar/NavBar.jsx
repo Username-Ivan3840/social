@@ -1,12 +1,13 @@
 import styles from "./NavBar.module.css"
-function NavBar(){
-    return(
+import { NavLink } from "react-router-dom"
+function NavBar() {
+    return (
         <div className={styles.navbar}>
-            <a href="" className={styles.navigation}>Профиль</a>
-            <a href="" className={styles.navigation}>Сообщения</a>
-            <a href="" className={styles.navigation}>Пользователи</a>
+            <NavLink to="/profile" className={styles.navigation}>Профиль</NavLink>
+            <NavLink to="/message" className={styles.navigation}>Сообщения</NavLink>
+            <NavLink to="/users" className={styles.navigation}>Пользователи</NavLink>
         </div>
-       
+
     )
 }
 export default NavBar
