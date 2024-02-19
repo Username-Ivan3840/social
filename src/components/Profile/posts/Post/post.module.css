@@ -17,3 +17,22 @@
     color: brown;
     margin-bottom: 20px;
 }
+.like{
+    width: 40px;
+    height: 40px;
+}
+.numberLike{
+    margin-left: 10px;
+    font-size: 24px;
+    color: rgb(50, 50, 172);
+    font-weight: 900;
+}
+.Post{
+    
+}
+.likeContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 40px;
+}

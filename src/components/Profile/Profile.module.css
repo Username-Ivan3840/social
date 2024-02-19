@@ -2,15 +2,8 @@
     grid-area: profile;
     
 }
-.profileText{
-    font-size: 22px;
-    margin-left: 15px;
-    color: brown;
-}
-.me{
-    display: flex;
-    /* justify-content: space-between; */
-}
+
+
 .styles.messageName {
     font-size: 30px;
 }

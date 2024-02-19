@@ -1,0 +1,9 @@
+.me {
+    display: flex;
+    /* justify-content: space-between; */
+}
+.profileText {
+    font-size: 22px;
+    margin-left: 15px;
+    color: brown;
+}

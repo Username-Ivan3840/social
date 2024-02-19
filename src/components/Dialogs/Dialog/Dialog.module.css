@@ -3,6 +3,7 @@
     color: brown;
     margin-right: 40px;
     width: 25%;
+    text-decoration:none;
 }
 .message {
     display: flex;
