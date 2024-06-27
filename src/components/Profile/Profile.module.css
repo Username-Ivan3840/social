@@ -1,0 +1,10 @@
+.profile{
+    grid-area: profile;
+    
+}
+
+
+.styles.messageName {
+    font-size: 30px;
+}
+

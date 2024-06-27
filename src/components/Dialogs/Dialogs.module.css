@@ -1,0 +1,45 @@
+.messageButton{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+.textareaMessage{
+    font-size: 23px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.messageButton{
+    color: black;
+    background-color: brown;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:  20px;
+   
+}
+.input {
+    font-size: 20px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    margin-right: 10px;
+    border-radius: 15px;
+    background-color: brown;
+    margin-top: 10px;
+    border-color: black;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
